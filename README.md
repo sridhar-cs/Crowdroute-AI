@@ -2,7 +2,7 @@ CrowdRoute AI 🚌⚡
 Festival Crowd Prediction and Fixed-Fleet Bus Optimization  
 Hackathon: SAKTHI HACKFEST'26 — Generative AI / Public Transit Domain  
 Target Platform: Windows 11 | AMD Ryzen 5 | Python 3.12 | FastAPI | React 18 | Vite 6 | TypeScript  
-Repository: https://github.com/Maithreyancs/CrowdRoute-AI.git
+Repository: https://github.com/sridhar-cs/CrowdRoute-AI.git
 project demo link:(https://crowdroute-ai-51mj-livid.vercel.app/)
 ---
 > [!WARNING]
